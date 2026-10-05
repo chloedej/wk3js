@@ -1,0 +1,15 @@
+/* 
+
+.card {
+    border: 2px solid black;
+    padding: 20px;
+    width: 250px;
+}
+
+.highlight{
+    background-color: rgba(250, 2, 250, 0.541);
+} */
+
+.completed {
+    text-decoration: line-through;
+}
