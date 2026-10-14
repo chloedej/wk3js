@@ -1,15 +1,74 @@
-/* 
+/* https://coolors.co/100b00-3b341f-c0b298-a4778b-aa4586 */
+/* RASPBERRY PURPLE B3446C
+KHAKIBEIGE B8A992
+DARKKHAKI 6A5A3D
+DUSTYMAUVE 9A797B */
 
+/* 
 .card {
     border: 2px solid black;
     padding: 20px;
     width: 250px;
-}
+}  */
 
-.highlight{
+/* .highlight{
     background-color: rgba(250, 2, 250, 0.541);
-} */
+} */ 
 
-.completed {
+/* .completed {
     text-decoration: line-through;
 }
+
+.title {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* 
+.card {
+    border: 1px solid #B3446C;
+    max-width: 24rem;
+    display:flex;
+    border:0ch solid black;
+    flex-direction: column;
+} */
+/* 
+.card-footer {
+    max-width: 24rem;
+    color: #9A797B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+} */
+/* 
+.item {
+    margin-bottom: 10px;
+    color:blueviolet
+} */
+/* 
+.todoList {
+font-family:oswald, sans-serif;
+/* } 
+
+.card-title {
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 10px;    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+/* 
+.card-body {
+    border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    margin: 0;
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     align-items: center;
+     background-color:#B8A992;
+     color: #B3446C;
+     border: 8px solid black;
+} */
+ 
